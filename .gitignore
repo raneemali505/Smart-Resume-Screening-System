@@ -1,4 +1,31 @@
+# Python
+venv/
 Backend/venv/
+__pycache__/
 Backend/__pycache__/
-frontend/node_modules/
+*.pyc
+instance/
+Backend/instance/
+
+# Uploaded files
+uploads/
 Backend/uploads/
+
+# React
+node_modules/
+frontend/node_modules/
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Postman
+postman/
+.postman/
+
+# OS
+.DS_Store
+Thumbs.db
